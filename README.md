@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Visual Localization, SLAM, 3D computer vision and Robotics.
 - 👯 I’m open to collaborate on the above topics.
-- 📫 How to reach me: (Linkedin)[https://www.linkedin.com/in/huy-ho%C3%A0ng-b%C3%B9i-99471516a/], (Twitter)[https://x.com/austrian_oak_vn]
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/huy-ho%C3%A0ng-b%C3%B9i-99471516a/)
 
 
 
